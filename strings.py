@@ -53,3 +53,8 @@ currentSentence="This is a python exercise."
 underScoreModifiedSentence=currentSentence.replace(" ","_")
 print(underScoreModifiedSentence)
 """
+
+#Testing how branching works in git
+
+showDayOfWeek=lambda:"Today is a Thursday"
+print(showDayOfWeek())
